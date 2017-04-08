@@ -25,10 +25,6 @@ or in the preview below.
 
 ## Installation
 
-### npm
-
-If on the server, install it through [npm](https://www.npmjs.com/):
-
 ```bash
 npm install --save logdown
 ```
